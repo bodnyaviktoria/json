@@ -1,1 +1,8 @@
-
+{
+  "Problem": "Notepad won't start",
+  "steps": [
+    "press start button",
+    "type the word notepad",
+    "launch notepad program"
+  ]
+}
